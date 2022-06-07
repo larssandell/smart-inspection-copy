@@ -56,9 +56,6 @@ Here you can detail any information you want to provide regarding contributing t
 
 ## Contact
 
-This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
-
-[My Facebook page](www.twitter.com)
-
-[My LinkedIn page](www.linkedin.com)
+<a href=”https://www.linkedin.com/in/lars-sandell"><img align=”left” src=”https://github.com/larssandell/LarsSandell/blob/main/LinkedIN.png" alt=”Lars Sandell | LinkedIn” width=”21px”/></a>
+<a href=”https://www.facebook.com/BingoPingo"><img align=”left” src=”https://github.com/larssandell/LarsSandell/blob/main/Facebook.png" alt=”Lars Sandell | Facebook” width=”21px”/></a>
 
