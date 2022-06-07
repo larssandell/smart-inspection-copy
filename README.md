@@ -56,6 +56,7 @@ Here you can detail any information you want to provide regarding contributing t
 
 ## Contact
 <p align="center">
+  ![Lars Sandell | LinkedIn](https://github.com/larssandell/smart-inspection-copy/blob/main/LinkedIN.png)
   <img src=”https://github.com/larssandell/smart-inspection-copy/blob/main/LinkedIN.png" alt=”Lars Sandell | LinkedIn” width=”21px”/>
                                                                                                      </p>
   
