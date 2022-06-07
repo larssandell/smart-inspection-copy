@@ -55,7 +55,13 @@ npm run start
 Here you can detail any information you want to provide regarding contributing to the project. For big projects you will usually have a separate `CONTRIBUTING.md` and link to it, but for smaller projects you can simply include instructions here. These instructions can simply detail the process you want a person to take, such as to make sure to open a pull request so code can be reviewed.
 
 ## Contact
+<p aling="center">
+  <img align=”left” src=”https://github.com/larssandell/smart-inspection-copy/blob/main/LinkedIN.png" alt=”Lars Sandell | LinkedIn” width=”21px”/>
+                                                                                                     </p>
+  
+<a href=”https://www.linkedin.com/in/lars-sandell"> 
+                                                  <img align=”left” src=”https://github.com/larssandell/smart-inspection-copy/blob/main/LinkedIN.png" alt=”Lars Sandell | LinkedIn” width=”21px”/>
+</a>
 
-<a href=”https://www.linkedin.com/in/lars-sandell"><img align=”left” src=”https://github.com/larssandell/smart-inspection-copy/blob/main/LinkedIN.png" alt=”Lars Sandell | LinkedIn” width=”21px”/></a>
 <a href=”https://www.facebook.com/BingoPingo"><img align=”left” src=”https://github.com/larssandell/smart-inspection-copy/blob/main/Facebook.png" alt=”Lars Sandell | Facebook” width=”21px”/></a>
 
