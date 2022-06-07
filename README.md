@@ -2,17 +2,33 @@
 
 ![image](https://github.com/larssandell/smart-inspection-copy/blob/main/smartinspection.png)
 
-A simple overview of the use/purpose of the project.
-
 ## Description
 
 Add a more detailed description of what your project entails and set out to do.
 
-You can add some bullet points if you'd like to:
+In this school project i choosed to remake a homepage for a local company Smart Inspection.
+For the project i was tasked to design a new homepage, create the homepage with HTML,CSS and JavaScript.
+i used wordpress as a headless CMS and create content so i could fetch the data to the site.
 
-- List item 1
-- List item 2
-- List item 3
+Pages that it includes:
+- Home page
+- About page
+- list of blogs
+- blog specific page
+- Contact page
+
+### JavaScript
+
+- Features a latest post carousel
+- API Call
+- Form submit validator
+- String query | blog spesific
+
+### Design tools
+- Figma
+- Photoshop
+- Illustrator
+- Maze for Interaction Design
 
 ## Built With
 
@@ -52,17 +68,12 @@ npm run start
 
 ## Contributing
 
-Here you can detail any information you want to provide regarding contributing to the project. For big projects you will usually have a separate `CONTRIBUTING.md` and link to it, but for smaller projects you can simply include instructions here. These instructions can simply detail the process you want a person to take, such as to make sure to open a pull request so code can be reviewed.
+<p>These are school projects, and changes should not be made. </p>
 
 ## Contact
-<p align="center">
-  ![Lars Sandell | LinkedIn](https://github.com/larssandell/smart-inspection-copy/blob/main/LinkedIN.png)
-  <img src=”https://github.com/larssandell/smart-inspection-copy/blob/main/LinkedIN.png" alt=”Lars Sandell | LinkedIn” width=”21px”/>
-                                                                                                     </p>
-  
-<a href=”https://www.linkedin.com/in/lars-sandell"> 
-                                                  <img align=”left” src=”https://github.com/larssandell/smart-inspection-copy/blob/main/LinkedIN.png" alt=”Lars Sandell | LinkedIn” width=”21px”/>
-</a>
-
-<a href=”https://www.facebook.com/BingoPingo"><img align=”left” src=”https://github.com/larssandell/smart-inspection-copy/blob/main/Facebook.png" alt=”Lars Sandell | Facebook” width=”21px”/></a>
+ 
+<div align="center">
+<a href="https://www.linkedin.com/in/lars-sandell"><img height="50" src="https://github.com/larssandell/LarsSandell/blob/main/LinkedIN.png?raw=true"></a>
+<a href="https://www.facebook.com/BingoPingo"><img height="50" src="https://github.com/larssandell/LarsSandell/blob/main/Facebook.png?raw=true"></a>
+</div>
 
