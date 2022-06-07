@@ -8,7 +8,7 @@ In this school project i choosed to remake a homepage for a local company Smart 
 For the project i was tasked to design a new homepage, create the homepage with HTML,CSS and JavaScript.
 i used wordpress as a headless CMS and create content so i could fetch the data to the site. And deployd with Netlify
 
-Pages that it includes:
+### Pages that it includes:
 - Home page
 - About page
 - list of blogs
