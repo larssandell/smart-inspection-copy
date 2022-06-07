@@ -23,6 +23,7 @@ Pages that it includes:
 - API Call
 - Form submit validator
 - String query | blog spesific
+- Modal
 
 ### Design tools
 - Figma
