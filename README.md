@@ -1,4 +1,4 @@
-# Your project title
+# Smart Inspcetion
 
 ![image](https://github.com/larssandell/smart-inspection-copy/blob/main/smartinspection.png)
 
