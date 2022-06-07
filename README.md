@@ -18,7 +18,7 @@ You can add some bullet points if you'd like to:
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,github,ai,netlify,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,github,ai,ps,netlify,vscode,figma" />
   </a>
 </p>
 
