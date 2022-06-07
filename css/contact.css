@@ -1,0 +1,172 @@
+iframe {
+    border-radius: 10px;
+    width: 100%;
+    margin: 10px 0;
+}
+.main-container {
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-gap: 10px;
+    margin: 10px 10px;
+    grid-template-areas: 
+    "form"
+    "desc"
+    "loca";
+}
+.main-container div {
+    background-color: var(--card-bg);
+    border-radius: 10px;
+}
+.main-container h2 {
+    margin-top: 10px;
+}
+.contact-description {
+    grid-area: desc;
+}
+.contact-location {
+    grid-area: loca;
+    margin-bottom: 20px;
+}
+p {
+    margin: 5px 10px;
+}
+.contact-location p {
+    text-align: center;
+    margin: 10px 0;
+}
+.contact-location a {
+    color: var(--test);
+    text-decoration: none;
+}
+
+/* form */
+.form-container {
+    display: flex;
+    grid-area: form;
+}
+#form {
+    border-radius: 10px;
+    padding: 10px;
+    width: 90%;
+    margin: auto;
+}
+#msgtype {
+    height: 25px;
+    border-radius: 5px;
+}
+h1, h2 {
+    color: #000;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.form-box {
+    display: flex;
+    flex-direction: column;
+}
+.form-box input, textarea {
+    background-color: rgba(245, 245, 245, 0.945);
+    border: 1px solid #fff;
+    border-radius: 10px;
+    display: block;
+    padding: 10px;
+    width: 100%;
+    color: #000;
+}
+.form-box select {
+    background-color: rgba(245, 245, 245, 0.945);
+    border: 1px solid #fff;
+    font-size: 14px;
+}
+.form-box input:active, input:focus,
+.form-box textarea:active, textarea:focus {
+    background-color: rgba(0, 0, 0, 0.2);
+    color: #fff;
+}
+.form-box select:active, select:focus {
+    color: #000;
+}
+.form-box input:active::placeholder, 
+.form-box input:focus::placeholder,
+.form-box textarea:active::placeholder,
+.form-box textarea:focus::placeholder {
+    color: transparent;
+}
+.form-box input:focus, .form-box textarea:focus {
+    outline: 0;
+}
+.form-box.success input, .form-box.success textarea {
+    border-color: green;
+}
+.form-box.error input, .form-box.error textarea {
+    border-color: red;
+}
+.form-box .error-form {
+    color: red;
+    height: 10px;
+    font-size: 0.7rem;
+    margin-bottom: 10px;
+}
+.h2-success {
+    display: block;
+    text-align: center;
+}
+.btn-submit {
+    align-self: center;
+    width: 150px;
+    height: 25px;
+    margin-top: 10px;
+}
+
+/* info box */
+#message {
+    height: 80px;
+}
+textarea {
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+
+/* at media */
+@media only screen and (min-width: 768px) {
+    .main-container {
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        grid-gap: 20px;
+        margin-top: 40px;
+        grid-template-areas: 
+        "form desc"
+        "loca loca";
+        margin: 0 10%;
+    }
+    .form-box .error-form {
+        height: 10px;
+        font-size: 1.5rem;
+        margin-bottom: 10px;
+    }
+    .h2-success {
+        font-size: 1.5rem;
+    }
+    .btn-submit {
+        width: 200px;
+        height: auto;
+    }
+    .btn-submit {
+        align-self: center;
+        width: 150px;
+        height: 30px;
+    }
+    .contact-description div {
+        margin: 25px 25px;
+    }
+    .btn-submit {
+        align-self: center;
+        width: 200px;
+        height: 35px;
+        margin-top: 10px;
+    }
+}
+@media only screen and (min-width: 350px) {
+    .form-box .error-form {
+        font-size: 0.9rem;
+    }
+}

@@ -1,0 +1,102 @@
+.project-container {
+    max-width: 100rem;
+    margin: auto;
+    margin: 0 10px;
+    border-radius: 10px;
+}
+.project-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 5px;
+    margin: 10px 0;
+    border-radius: 10px;
+}
+.project-card {
+    border-radius: 10px;
+    width: 100%;
+    height: auto;
+    position: relative;
+    box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
+}
+.text-box {
+    border-radius: 0 0 10px 10px;
+    background-color: rgba(0, 0, 0, 0.9);
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    height: 25px;
+}
+.post-h2 {
+    font-size: 1.2rem;
+    color: #fff;
+}
+.project-img {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1.5 / 1;
+    object-fit: cover;
+    border-radius: 10px;
+    transition: .3s ease-in-out;
+}
+.project-img:hover, .project-img:focus {
+    opacity: 0.8;
+}
+#filter-container {
+    display: flex;
+    flex-direction: row;
+}
+.btn-more {
+    display: block;
+    margin: auto;
+}
+.btn-filter {
+    width: 70px;
+    display: block;
+    margin-right: 10px;
+    justify-content: center;
+}
+.project-container input {
+    border: none;
+    border-radius: 10px;
+    padding: 0 10px;
+}
+.project-container ::placeholder {
+    text-align: center;
+}
+.project-container input:focus {
+    outline: 0;
+}
+/* media Q */
+@media only screen and (min-width: 768px) {
+    .project-container {
+        max-width: 100rem;
+        margin: 0 10%;
+      }
+      .btn-more {
+          width: 150px;
+          height: auto;
+          font-size: 1.5rem;
+      }
+      .text-box {
+          height: 30px;
+      }
+      .post-h2{
+          font-size: 1.5rem;
+      }
+}
+@media only screen and (min-width: 1000px) {
+      .project-grid {
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 15px;
+        margin: 10px 0;
+      }
+}
+@media only screen and (min-width: 1500px) {
+      .project-grid {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        gap: 15px;
+        margin: 10px 0;
+      }
+}
