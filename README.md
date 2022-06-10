@@ -27,6 +27,9 @@ In this school project I choose to remake a homepage for a local company Smart I
 - Illustrator
 - Maze for Interaction Design
 
+## Improvements
+<a href="https://github.com/larssandell/gamehub/blob/main/Improvements.md">Here</a>
+
 ## Built With
 
 <p>
