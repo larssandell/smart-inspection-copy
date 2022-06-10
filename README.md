@@ -47,22 +47,6 @@ This is where you list how to get the project started. It typically just include
 git clone git@github.com:NoroffFEU/portfolio-1-example.git
 ```
 
-2. Install the dependencies:
-
-```
-npm install
-```
-
-### Running
-
-Here is where you detail how to run the app. It typically involves the commands you'd need to run to start the project e.g.
-
-To run the app, run the following commands:
-
-```bash
-npm run start
-```
-
 ## Contributing
 
 <p>These are school projects, and changes should not be made. </p>
