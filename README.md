@@ -28,7 +28,7 @@ In this school project I choose to remake a homepage for a local company Smart I
 - Maze for Interaction Design
 
 ## Improvements
-<a href="https://github.com/larssandell/gamehub/blob/main/Improvements.md">Here</a>
+<a href="https://github.com/larssandell/smart-inspection-copy/blob/main/Improvements.md">Here</a>
 
 ## Built With
 
